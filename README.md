@@ -1,2 +1,2 @@
-# Projectt2
-Project is a good start
+# Project2
+Project is a gooood start
